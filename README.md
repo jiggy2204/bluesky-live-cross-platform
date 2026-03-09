@@ -2,7 +2,7 @@
 
 Automatically set your Bluesky profile to **LIVE** when you start streaming, and clear it when you're done — directly inside OBS.
 
-Works on **Windows and Linux**. No bat files. No extra bot software. All configuration is done through a settings panel inside OBS itself.
+Works on **Windows and Linux**. All configuration is done through a settings panel inside OBS itself.
 
 ---
 
